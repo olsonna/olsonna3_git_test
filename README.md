@@ -3,4 +3,7 @@ olsonna3@msu.edu
 Applied Engineering Sciences
 2nd year
 Grandville, MI
-EGR 102: MatLab and CMSE 201: Python
+GR 102: MatLab and CMSE 201: Python
+
+Casey Chartier:
+charti23@msu.edu
